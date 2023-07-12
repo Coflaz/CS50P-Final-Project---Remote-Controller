@@ -1,0 +1,2 @@
+#Only time module is needed
+#To make the remote more realistic, I added time.sleep to some functions so that it would look like a loading data
